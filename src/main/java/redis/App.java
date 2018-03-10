@@ -12,7 +12,7 @@ public class App
     {
         Jedis jedis = new Jedis("localhost");
         Example example = new Example(new Jedis("localhost"));
-        
+
         example.example1();
         System.out.println("------------------------------------------------");
         example.example2();
@@ -20,6 +20,7 @@ public class App
         example.example3();
         System.out.println("------------------------------------------------");
         example.example4();
+        
 
     }
 
