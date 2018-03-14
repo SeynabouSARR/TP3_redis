@@ -24,7 +24,12 @@
     Telecharger Installer la base de données Redis
 	https://redis.io/download
 
+	Lancer le serveur de données de Redis :
 
+	- redis-server.exe : depuis une ligne de commande windows
+	une fois que le serveur demarré, il faut lancer le client avec la commande ci-dessou dans ligne de commande
+
+	-redis-cli
 
     Créer une base de données du nom de "_tp3_"
     Lancer votre application Maven en cliquant sur Run > Run as > Maven Build >
