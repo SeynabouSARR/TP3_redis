@@ -7,7 +7,7 @@
     - Comprendre les différents types de bases nosql
     - Réaliser une application en utilisant une API comme Morphia proche de JPA en se plaçant
       dans un cadre classique de développement au dessus d’une base orientée document comme Mongo.
-    - Une basedans la gestion de dependance avec Maven serait un plus.
+    - Une base dans la gestion de dependance avec Maven serait un plus.
 
 <h2>Technologies utilisées</h2>
 
@@ -27,7 +27,7 @@
 	Lancer le serveur de données de Redis :
 
 	- redis-server.exe : depuis une ligne de commande windows
-	une fois que le serveur demarré, il faut lancer le client avec la commande ci-dessou dans ligne de commande
+	une fois que le serveur demarré, il faut lancer le client avec la commande ci-dessous dans ligne de commande
 
 	-redis-cli
 
@@ -44,7 +44,8 @@
    	 </li>
 
 </ol>
-Auteurs
+<h2> Auteurs</h2>
+
 SARR Seynabou</br>
 BOUE Melaine
 
