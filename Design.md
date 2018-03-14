@@ -7,12 +7,4 @@
 
     Pouvoir manipuler differents objets en utilisant Morphia
     Gestion de la connexion à la base de données et manipulation des données avec JPA
-    Creation et manipulation des Servlet
-    Gestion des routes
-    Conception d'un API avec JAX-RS
-    Acceder à des ressources de l'API avec des url bien specifique
-
-    Le diagramme UML utilisé est le suivant
-    Patron de conception utilisé
-        Pattern DAO
-        Pattern Singletton
+    
